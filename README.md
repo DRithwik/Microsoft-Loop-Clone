@@ -23,7 +23,7 @@ A web-based application inspired by Microsoft Loop, designed to enhance collabor
 
 | Area                   | Technologies & Tools                                                                                     |
 |------------------------|----------------------------------------------------------------------------------------------------------|
-| **Frontend**           | Next.js (14), React.js (18), TailwindCSS, Radix UI                                                       |
+| **Frontend**           | Next.js, React.js, TailwindCSS                                                                           |
 | **Backend**            | Firebase                                                                                                 |
 | **Database**           | Cloud Firestore Firestore DataBase for real-time storage)                                                |
 | **Collaboration**      | Liveblocks (Real-time data synchronization)                                                              |
