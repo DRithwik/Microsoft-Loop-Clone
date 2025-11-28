@@ -18,7 +18,7 @@ A web-based application inspired by Microsoft Loop, designed to enhance collabor
 - **Responsive Design**: Optimized for desktop and mobile, ensuring a seamless experience on any device.
 
 ---
-
+ 
 ## **Technologies Used**
 
 | Area                   | Technologies & Tools                                                                                     |
